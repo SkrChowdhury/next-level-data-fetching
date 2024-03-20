@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Exploring the Wonders of Nature",
+      "description": "Embark on a journey through lush forests, serene lakes, and towering mountains. Discover the beauty of nature and the tranquility it brings to our souls.",
+      "likesCount": 102
+    },
+    {
+      "id": 2,
+      "title": "The Art of Culinary Delights",
+      "description": "Delve into the world of gastronomy and experience a symphony of flavors. From exotic spices to delicate pastries, indulge your senses and savor every bite.",
+      "likesCount": 75
+    },
+    {
+      "id": 3,
+      "title": "Unleash Your Creativity with DIY Crafts",
+      "description": "Get inspired and unleash your inner artist with DIY crafts. From handmade cards to upcycled décor, express yourself and bring your imagination to life.",
+      "likesCount": 88
+    },
+    {
+      "id": 4,
+      "title": "The Joys of Parenthood",
+      "description": "Celebrate the magic of parenthood and cherish every moment with your little ones. From their first steps to their infectious laughter, every milestone is a precious memory.",
+      "likesCount": 120
+    },
+    {
+      "id": 5,
+      "title": "Discovering Hidden Gems in Your City",
+      "description": "Embark on an urban adventure and uncover hidden gems in your city. From quaint cafes to vibrant street art, explore the essence of your surroundings.",
+      "likesCount": 64
+    },
+    {
+      "id": 6,
+      "title": "The Power of Positive Thinking",
+      "description": "Embrace the power of positivity and transform your life. From overcoming obstacles to achieving your dreams, let optimism be your guiding light.",
+      "likesCount": 145
+    }
+  ]
+}
